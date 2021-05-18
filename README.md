@@ -1,5 +1,5 @@
 # CUDA_Project
-CUDA를 이용한 2D영상 to 3D StereoScopic 영상 변환
+CUDA를 이용한 2D영상 to 3D StereoScopic 영상 변환 (2019년 개발)
 
 # 사용언어
 C++(CUDA)
